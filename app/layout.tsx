@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "Pump.fun Stream Overlay - Top Buyers Leaderboard",
   description: "Real-time leaderboard overlay showing top pump.fun token buyers for streamers",
   generator: "v0.app",
+  icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
